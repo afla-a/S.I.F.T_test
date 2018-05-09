@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  
-//
-//  Created by afla on 5/5/18.
-//
-//
 
 #include "main.h"
 #include<vector>
